@@ -52,4 +52,4 @@
 * **Email:** cesarmg77.data@gmail.com
 * **LinkedIn:** www.linkedin.com/in/cesar-m-gonzalez
 
-¡Estoy emocionado por conectar y colaborar en proyectos desafiantes dentro del mundo del análisis de datos! 😄 
+¡Estoy emocionado por conectar y colaborar en proyectos desafiantes dentro del mundo del análisis de datos machine learning e inteligencia artificial! 😄 
