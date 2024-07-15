@@ -53,3 +53,7 @@
 * **LinkedIn:** www.linkedin.com/in/cesar-m-gonzalez
 
 ¡Estoy emocionado por conectar y colaborar en proyectos desafiantes dentro del mundo del análisis de datos machine learning e inteligencia artificial! 😄 
+
+Si gustan disfrutar de música de vídeo juegos de 8 bits, sonidos de una época que vive en mis mejores recuerdos, quedan todos ustedes invitados:
+
+www.zeno.fm/retro-play-music/
