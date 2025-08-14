@@ -60,7 +60,7 @@ This is a selection of my work where I apply my skills to solve problems, from e
 
 #### Google Cloud Badges & Certifications
 
-I have completed a series of courses to strengthen my skills in Cloud Computing, Generative AI, and MLOps. You can view all my completed badges on my [**Google Cloud Skills Boost public profile**](https://www.cloudskillsboost.google/public_profiles/8b04b72a-9e75-4f84-a30e-73246e5acd0e) and [**Credly**](https://www.credly.com/users/cesar-gonzalez.76dffb93).
+I have completed a series of courses to strengthen my skills in Cloud Computing, Generative AI, and MLOps. You can view all my completed badges on my [**Google Cloud Skills Boost public profile**](https://www.cloudskillsboost.google/public_profiles/8b04b72a-9e75-4f84-a30e-73246e5acd0e) and [**Credly public profile**](https://www.credly.com/users/cesar-gonzalez.76dffb93).
 
 Highlights include:
 
