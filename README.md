@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Cesar Gonzalez
-**Data Analyst | Data Scientist**
+**Junior Data Analyst | Junior Data Scientist**
 
 <a href="https://www.linkedin.com/in/cesar-m-gonzalez">
   <img align="left" alt="Cesar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -48,7 +48,7 @@ This is a selection of my work where I apply my skills to solve problems, from e
 * **[Customer Churn Scoring Model](https://github.com/Ra77Data/My-Portfolio/tree/main/ML-Scoring_Abandono)**: A Machine Learning model to predict the probability of a customer churning from a service.
 * **[ML Model on National Parks](https://github.com/Ra77Data/My-Portfolio/tree/main/ML-Parques_Nac)**: Applying Machine Learning techniques to analyze data and generate insights about Argentina's national parks.
 * **[CONICET Data Analysis](https://github.com/Ra77Data/My-Portfolio/tree/main/CONICET)**: An exploratory analysis of data from Argentina's National Scientific and Technical Research Council.
-* **[2022 World Rowing Championships Analysis](https://github.com/Ra77Data/My-Portfolio/tree/main/DA-FWRC2022-Analisis)**: Data analysis of the results and participants from the 2022 World Rowing Championships.
+* **[FIFA World Cup Qatar 2022 Analysis](https://github.com/Ra77Data/My-Portfolio/tree/main/DA-FWRC2022-Analisis)**: Data analysis of the results, teams, and players from the FIFA World Cup Qatar 2022.
 * **[Surname Analysis in Argentina](https://github.com/Ra77Data/My-Portfolio/tree/main/DA-Analisis_Apellidos)**: A data analysis project to explore the distribution and frequency of surnames in the country.
 
 ---
@@ -124,51 +124,3 @@ Me considero una persona con un estricto sentido de la **responsabilidad** y un 
 | **Cloud Computing** | `Google Cloud Platform (GCP)`, `Vertex AI`, `BigQuery`, `MLOps`|
 | **Machine Learning / IA** | `Machine Learning`, `IA Generativa`, `Scikit-learn`, `TensorFlow` |
 | **Análisis de Datos** | `Análisis de Negocio`, `ETL`, `SQL`, `Almacenamiento de Datos` |
-| **Lenguajes** | `Python`, `SQL` |
-| **Idiomas** | `Español (Nativo)`, `Inglés (Profesional)` |
-
----
-
-### 🚀 Proyectos Destacados
-
-Esta es una selección de mis trabajos donde aplico mis habilidades para resolver problemas, desde el análisis exploratorio de datos hasta la creación de modelos de Machine Learning.
-
-* **[Modelo de Scoring para Abandono de Clientes (Churn)](https://github.com/Ra77Data/My-Portfolio/tree/main/ML-Scoring_Abandono)**: Creación de un modelo de Machine Learning para predecir la probabilidad de que un cliente abandone un servicio.
-* **[Modelo de ML sobre Parques Nacionales](https://github.com/Ra77Data/My-Portfolio/tree/main/ML-Parques_Nac)**: Aplicación de técnicas de Machine Learning para analizar datos y generar insights sobre los parques nacionales de Argentina.
-* **[Análisis de Datos del CONICET](https://github.com/Ra77Data/My-Portfolio/tree/main/CONICET)**: Un análisis exploratorio sobre datos del Consejo Nacional de Investigaciones Científicas y Técnicas de Argentina.
-* **[Análisis del Campeonato Mundial de Remo 2022](https://github.com/Ra77Data/My-Portfolio/tree/main/DA-FWRC2022-Analisis)**: Análisis de datos de los resultados y participantes del Campeonato Mundial de Remo de 2022.
-* **[Análisis de Apellidos en Argentina](https://github.com/Ra77Data/My-Portfolio/tree/main/DA-Analisis_Apellidos)**: Un proyecto de análisis de datos para explorar la distribución y frecuencia de apellidos en el país.
-
----
-
-### 🎓 Educación y Certificaciones
-
-* **Diplomatura en Ciencias de Datos e Inteligencia Artificial** - *Universidad Nacional de San Martín*
-* **Contador Publico Nacional** - *Universidad Nacional de Córdoba*
-
-#### Insignias y Certificaciones de Google Cloud
-
-He completado una serie de cursos para fortalecer mis habilidades en Cloud Computing, IA Generativa y MLOps. Puedes ver todas mis insignias completadas en mi [**perfil público de Google Cloud Skills Boost**](https://www.cloudskillsboost.google/public_profiles/8b04b72a-9e75-4f84-a30e-73246e5acd0e).
-
-Las más destacadas incluyen:
-
-* **IA Generativa y Gemini:**
-    * Gemini for Data Scientists and Analysts
-    * Develop GenAI Apps with Gemini and Streamlit
-    * Machine Learning Operations (MLOps) for Generative AI
-    * Introduction to Generative AI & Large Language Models
-* **IA Responsable:**
-    * Responsible AI: Applying AI Principles with Google Cloud
-    * Responsible AI for Developers: Privacy & Safety
-* **Datos y Fundamentos de la Nube:**
-    * Google Cloud Computing Foundations: Data, ML, and AI
-    * Introduction to Data Analytics in Google Cloud
-    * Digital Transformation with Google Cloud
-
----
-
-### 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Cesar](https://github-readme-stats.vercel.app/api?username=Ra77Data&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</details>
