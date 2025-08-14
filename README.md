@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Cesar Gonzalez
-**Junior Data Analyst | Junior Data Scientist**
+**Data Analyst | Data Scientist**
 
 <a href="https://www.linkedin.com/in/cesar-m-gonzalez">
   <img align="left" alt="Cesar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
