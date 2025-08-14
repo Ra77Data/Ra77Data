@@ -37,12 +37,13 @@ Me considero una persona con un estricto sentido de la **responsabilidad** y un 
 
 ### 🚀 Proyectos Destacados
 
-Esta es una selección de mis trabajos donde aplico mis habilidades para resolver problemas.
+Esta es una selección de mis trabajos donde aplico mis habilidades para resolver problemas, desde el análisis exploratorio de datos hasta la creación de modelos de Machine Learning.
 
-* **[Predicción de Costos de Seguros Médicos](https://github.com/Ra77Data/My-Portfolio/tree/main/Machine%20Learning%20Project%20-%20Medical%20Insurance%20Cost%20Prediction)**: Modelo de regresión para predecir costos de seguros basado en atributos del paciente. (Tecnologías: `Python`, `Scikit-learn`, `Pandas`).
-* **[Detección de Neumonía con Deep Learning](https://github.com/Ra77Data/My-Portfolio/tree/main/Deep%20Learning%20Project%20-%20Pneumonia%20Detection)**: Red Neuronal Convolucional (CNN) para clasificar imágenes de rayos X de tórax. (Tecnologías: `TensorFlow`, `Keras`, `CNN`).
-* **[Análisis de Ventas con SQL](https://github.com/Ra77Data/My-Portfolio/tree/main/SQL%20Project%20-%20Music%20Store%20Analysis)**: Análisis de una base de datos de una tienda de música para responder preguntas de negocio. (Tecnologías: `SQL`, `PostgreSQL`).
-* **[Dashboard de RRHH en Power BI](https://github.com/Ra77Data/My-Portfolio/tree/main/Power%20BI%20Project%20-%20HR%20Analytics)**: Dashboard interactivo para analizar la rotación de empleados y métricas de RRHH. (Tecnologías: `Power BI`, `DAX`).
+* **[Modelo de Scoring para Abandono de Clientes (Churn)](https://github.com/Ra77Data/My-Portfolio/tree/main/ML-Scoring_Abandono)**: Creación de un modelo de Machine Learning para predecir la probabilidad de que un cliente abandone un servicio.
+* **[Modelo de ML sobre Parques Nacionales](https://github.com/Ra77Data/My-Portfolio/tree/main/ML-Parques_Nac)**: Aplicación de técnicas de Machine Learning para analizar datos y generar insights sobre los parques nacionales de Argentina.
+* **[Análisis de Datos del CONICET](https://github.com/Ra77Data/My-Portfolio/tree/main/CONICET)**: Un análisis exploratorio sobre datos del Consejo Nacional de Investigaciones Científicas y Técnicas de Argentina.
+* **[Análisis del Campeonato Mundial de Remo 2022](https://github.com/Ra77Data/My-Portfolio/tree/main/DA-FWRC2022-Analisis)**: Análisis de datos de los resultados y participantes del Campeonato Mundial de Remo de 2022.
+* **[Análisis de Apellidos en Argentina](https://github.com/Ra77Data/My-Portfolio/tree/main/DA-Analisis_Apellidos)**: Un proyecto de análisis de datos para explorar la distribución y frecuencia de apellidos en el país.
 
 ---
 
