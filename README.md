@@ -4,6 +4,9 @@
 <a href="https://www.linkedin.com/in/cesar-m-gonzalez">
   <img align="left" alt="LinkedIn de Cesar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.cloudskillsboost.google/public_profiles/8b04b72a-9e75-4f84-a30e-73246e5acd0e">
+  <img align="left" alt="Perfil de Google Cloud Skills Boost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />
+</a>
 <a href="mailto:cesarmg77.data@gmail.com">
   <img align="left" alt="Email de Cesar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -54,7 +57,9 @@ Esta es una selección de mis trabajos donde aplico mis habilidades para resolve
 
 #### Insignias y Certificaciones de Google Cloud
 
-He completado una serie de cursos y especializaciones para fortalecer mis habilidades en Cloud Computing, IA Generativa y MLOps. Las más destacadas incluyen:
+He completado una serie de cursos para fortalecer mis habilidades en Cloud Computing, IA Generativa y MLOps. Puedes ver todas mis insignias completadas en mi [**perfil público de Google Cloud Skills Boost**](https://www.cloudskillsboost.google/public_profiles/8b04b72a-9e75-4f84-a30e-73246e5acd0e).
+
+Las más destacadas incluyen:
 
 * **IA Generativa y Gemini:**
     * Gemini for Data Scientists and Analysts
