@@ -9,17 +9,17 @@
 </a>
 <br>
 
-[cite_start]Ubicado en Córdoba, Argentina[cite: 2].
+Ubicado en Córdoba, Argentina.
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-[cite_start]Después de una sólida carrera como **Contador Público independiente**, decidí dar un giro a mi ámbito laboral para seguir mi verdadera pasión: el **análisis de datos**[cite: 20]. [cite_start]Este interés por la tecnología no es nuevo; desde muy joven me pasaba noches enteras programando en mi Commodore 64[cite: 21].
+Después de una sólida carrera como **Contador Público independiente**, decidí dar un giro a mi ámbito laboral para seguir mi verdadera pasión: el **análisis de datos**. Este interés por la tecnología no es nuevo; desde muy joven me pasaba noches enteras programando en mi Commodore 64.
 
-[cite_start]Mi formación en ciencias económicas me brindó una base muy sólida en **matemáticas y estadística** [cite: 22][cite_start], y mi reciente **Diplomatura en Ciencias de Datos e Inteligencia Artificial** ha consolidado las habilidades técnicas que necesito para prosperar en este campo[cite: 38].
+Mi formación en ciencias económicas me brindó una base muy sólida en **matemáticas y estadística**, y mi reciente **Diplomatura en Ciencias de Datos e Inteligencia Artificial** ha consolidado las habilidades técnicas que necesito para prosperar en este campo.
 
-[cite_start]Me considero una persona con un estricto sentido de la **responsabilidad** y un alto nivel de autoexigencia[cite: 24, 33]. [cite_start]Mis dos mayores fortalezas son la **perseverancia** y la convicción de que cada problema tiene diversas soluciones posibles, lo que me permite enfrentar cualquier dificultad con una mentalidad creativa y resiliente[cite: 25, 26, 34, 35].
+Me considero una persona con un estricto sentido de la **responsabilidad** y un alto nivel de autoexigencia. Mis dos mayores fortalezas son la **perseverancia** y la convicción de que cada problema tiene diversas soluciones posibles, lo que me permite enfrentar cualquier dificultad con una mentalidad creativa y resiliente.
 
 ---
 
@@ -27,11 +27,11 @@
 
 | Área | Tecnologías y Habilidades |
 | :--- | :--- |
-| **Análisis de Datos** | [cite_start]`Análisis de Negocio` [cite: 7][cite_start], `ETL (Extraer, transformar y cargar)` [cite: 6][cite_start], `Almacenamiento de Datos` [cite: 6] |
-| **Lenguajes** | [cite_start]`Python`[cite: 18], `SQL` |
-| **Machine Learning / IA** | [cite_start]`Machine Learning` [cite: 18][cite_start], `Inteligencia Artificial`[cite: 18], `Scikit-learn`, `TensorFlow` |
-| **Cloud Computing** | [cite_start]`Google Cloud Platform` [cite: 18] |
-| **Idiomas** | [cite_start]`Español (Nativo)` [cite: 9][cite_start], `Inglés (Profesional)` [cite: 9] |
+| **Análisis de Datos** | `Análisis de Negocio`, `ETL (Extraer, transformar y cargar)`, `Almacenamiento de Datos` |
+| **Lenguajes** | `Python`, `SQL` |
+| **Machine Learning / IA** | `Machine Learning`, `Inteligencia Artificial`, `Scikit-learn`, `TensorFlow` |
+| **Cloud Computing** | `Google Cloud Platform` |
+| **Idiomas** | `Español (Nativo)`, `Inglés (Profesional)` |
 
 ---
 
@@ -39,24 +39,22 @@
 
 Esta es una selección de mis trabajos donde aplico mis habilidades para resolver problemas.
 
-| Proyecto | Descripción | Tecnologías Clave |
-| :--- | :--- | :--- |
-| **[Predicción de Costos de Seguros Médicos](https://github.com/Ra77Data/My-Portfolio/tree/main/Machine%20Learning%20Project%20-%20Medical%20Insurance%20Cost%20Prediction)** | Modelo de regresión para predecir costos de seguros basado en atributos del paciente. | `Python`, `Scikit-learn`, `Pandas` |
-| **[Detección de Neumonía con Deep Learning](https://github.com/Ra77Data/My-Portfolio/tree/main/Deep%20Learning%20Project%20-%20Pneumonia%20Detection)** | Red Neuronal Convolucional (CNN) para clasificar imágenes de rayos X de tórax. | `TensorFlow`, `Keras`, `CNN` |
-| **[Análisis de Ventas con SQL](https://github.com/Ra77Data/My-Portfolio/tree/main/SQL%20Project%20-%20Music%20Store%20Analysis)** | Análisis de una base de datos de una tienda de música para responder preguntas de negocio. | `SQL`, `PostgreSQL` |
-| **[Dashboard de RRHH en Power BI](https://github.com/Ra77Data/My-Portfolio/tree/main/Power%20BI%20Project%20-%20HR%20Analytics)** | Dashboard interactivo para analizar la rotación de empleados y métricas de RRHH. | `Power BI`, `DAX` |
+* **[Predicción de Costos de Seguros Médicos](https://github.com/Ra77Data/My-Portfolio/tree/main/Machine%20Learning%20Project%20-%20Medical%20Insurance%20Cost%20Prediction)**: Modelo de regresión para predecir costos de seguros basado en atributos del paciente. (Tecnologías: `Python`, `Scikit-learn`, `Pandas`).
+* **[Detección de Neumonía con Deep Learning](https://github.com/Ra77Data/My-Portfolio/tree/main/Deep%20Learning%20Project%20-%20Pneumonia%20Detection)**: Red Neuronal Convolucional (CNN) para clasificar imágenes de rayos X de tórax. (Tecnologías: `TensorFlow`, `Keras`, `CNN`).
+* **[Análisis de Ventas con SQL](https://github.com/Ra77Data/My-Portfolio/tree/main/SQL%20Project%20-%20Music%20Store%20Analysis)**: Análisis de una base de datos de una tienda de música para responder preguntas de negocio. (Tecnologías: `SQL`, `PostgreSQL`).
+* **[Dashboard de RRHH en Power BI](https://github.com/Ra77Data/My-Portfolio/tree/main/Power%20BI%20Project%20-%20HR%20Analytics)**: Dashboard interactivo para analizar la rotación de empleados y métricas de RRHH. (Tecnologías: `Power BI`, `DAX`).
 
 ---
 
 ### 🎓 Educación y Certificaciones
 
-* [cite_start]**Diplomatura en Ciencias de Datos e Inteligencia Artificial** - *Universidad Nacional de San Martín* [cite: 37, 38]
-* [cite_start]**Contador Publico Nacional** - *Universidad Nacional de Córdoba* [cite: 17, 45, 46]
+* **Diplomatura en Ciencias de Datos e Inteligencia Artificial** - *Universidad Nacional de San Martín*
+* **Contador Publico Nacional** - *Universidad Nacional de Córdoba*
 
-[cite_start]He complementado mi formación con certificaciones en tecnologías cloud e IA de Google[cite: 11, 12, 13, 14, 15]:
-* [cite_start]**Gemini for Data Scientists and Analysts** [cite: 11]
-* [cite_start]**Responsible AI for Developers: Privacy & Safety** [cite: 12]
-* [cite_start]**Digital Transformation with Google Cloud** [cite: 13]
+He complementado mi formación con certificaciones en tecnologías cloud e IA de Google:
+* **Gemini for Data Scientists and Analysts**
+* **Responsible AI for Developers: Privacy & Safety**
+* **Digital Transformation with Google Cloud**
 
 ---
 
