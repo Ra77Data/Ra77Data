@@ -20,7 +20,7 @@ Data Scientist & Cloud Solutions Architect | AWS Data & ML Engineering | GenAI |
 </p>
 
 <p align="center">
-  📍 Based in Córdoba, Argentina — Remote / Relocation Ready. <br/>
+  📍 Based in Córdoba, Argentina — Remote. <br/>
   🇦🇷 <em>La versión en español está disponible al final de este documento.</em>
 </p>
 
@@ -51,41 +51,17 @@ My CPA background remains an asset, not a footnote: it's what lets me connect a 
 
 ---
 
-## 🚀 Featured Projects
-
-> 📂 A full, documented portfolio — with problem statements, architecture diagrams, and results for each project — lives in [caesar-gonzalez-tech-portfolio](https://github.com/Ra77Data/caesar-gonzalez-tech-portfolio).
-
-- 🔍 **[Serverless ALPR System](https://github.com/Ra77Data/aws-rekognition-alpr)** — Event-driven license plate recognition on AWS (Lambda, Rekognition, DynamoDB, SAM). Sub-1-second end-to-end processing with a custom OCR-noise consolidation heuristic.
-
-- 📉 **[Customer Churn & Revenue Retention Model](https://github.com/Ra77Data/My-Portfolio/tree/main/ML-Scoring_Abandono)** — Binary classification pipeline (Random Forest vs. XGBoost) with SMOTE class balancing for proactive retention.
-
-- 🧠 More projects — including a RAG-based document intelligence system — coming soon in the portfolio hub above.
-
----
-
 ## 🎓 Certifications
 
+- ✅ AWS re/Start Graduate
 - ✅ AWS Certified Cloud Practitioner
 - ✅ AWS Certified AI Practitioner
 - ✅ AWS Academy Certified Educator
-- ✅ AWS re/Start Graduate
 - ✅ AWS Academy Graduate: Data Engineering, Cloud Data Pipeline Builder, Cloud Foundations, ML Foundations, ML for NLP
 - ✅ Google Data Analytics Professional Certificate | Google Cloud Foundations
 - 🎯 In preparation: AWS Certified Machine Learning Engineer – Associate, AWS Certified Data Engineer – Associate
 
 🏅 See all badges: [Credly](https://www.credly.com/users/cesar-gonzalez.76dffb93) · [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/8b04b72a-9e75-4f84-a30e-73246e5acd0e)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ra77Data&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra77Data&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
@@ -122,10 +98,10 @@ Mi formación como Contador sigue siendo un activo, no una nota al pie: es lo qu
 
 ### 🎓 Certificaciones
 
+- ✅ AWS re/Start Graduate
 - ✅ AWS Certified Cloud Practitioner
 - ✅ AWS Certified AI Practitioner
 - ✅ AWS Academy Certified Educator
-- ✅ AWS re/Start Graduate
 - ✅ AWS Academy Graduate: Data Engineering, Cloud Data Pipeline Builder, Cloud Foundations, ML Foundations, ML for NLP
 - ✅ Google Data Analytics Professional Certificate | Google Cloud Foundations
 - 🎯 En preparación: AWS Certified Machine Learning Engineer – Associate, AWS Certified Data Engineer – Associate
