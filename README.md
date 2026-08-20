@@ -5,7 +5,7 @@ Data Scientist & Cloud Solutions Architect | AWS Data & ML Engineering | GenAI |
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL-LINKEDIN">
+  <a href="https://www.linkedin.com/in/cesar-m-gonzalez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.credly.com/users/cesar-gonzalez.76dffb93">
@@ -14,7 +14,7 @@ Data Scientist & Cloud Solutions Architect | AWS Data & ML Engineering | GenAI |
   <a href="https://www.cloudskillsboost.google/public_profiles/8b04b72a-9e75-4f84-a30e-73246e5acd0e">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   </a>
-  <a href="mailto:TU-EMAIL@gmail.com">
+  <a href="mailto:cesarmg77.data@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
