@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm César Martín González</h1>
-<h3 align="center">Data Scientist | ML Engineer | Cloud Computing Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Scientist | Python | ML | AI | Cloud Computing</h3>
 
 <p align="center">
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/cesar-m-gonzalez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -11,7 +14,10 @@
 </p>
 
 <p align="center">
-  <em>Data Analyst and Data Scientist with a strong foundation in business analysis (CPN 2014) and a Data Science Diploma (2023). Passionate about turning complex data into actionable insights and building scalable AI/ML solutions in the cloud.</em>
+  <em>
+    Data Analyst and Data Scientist with a business and finance background as a Public Accountant (2014) and a Data Science Diploma (2023). 
+    Passionate about transforming complex data into clear insights and building scalable AI/ML solutions in the cloud.
+  </em>
 </p>
 
 ---
@@ -23,40 +29,154 @@
     <td width="50%" valign="top">
       <h2 align="center">📊 Data Science Portfolio</h2>
       <p align="center">
-        Exploratory Data Analysis, Statistical Modeling, Data Visualization, and Business Cases using Python, SQL, and Jupyter Notebooks.
+        Exploratory data analysis, statistical modeling, data visualization, and business cases using Python, SQL, and Jupyter Notebooks.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
       </p>
       <p align="center">
-        <a href="https://github.com/Ra77Data/data-science-foundations">
-          <img src="https://img.shields.io/badge/👉_Explore_Repository-2ea44f?style=for-the-badge" alt="Data Science Repo"/>
+        <a href="https://github.com/Ra77Data/data-science-foundations" target="_blank">
+          <img src="https://img.shields.io/badge/👉_Explore_Repository-2ea44f?style=for-the-badge" alt="Data Science Portfolio"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h2 align="center">🤖 AI / ML & Cloud Portfolio</h2>
       <p align="center">
-        Machine Learning, Generative AI projects, API development, and Cloud Infrastructure deployments.
+        Machine Learning, Generative AI, API development, automation, and cloud infrastructure projects.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/GenAI-000000?style=flat&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloud-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+        <img src="https://img.shields.io/badge/GenAI-000000?style=flat&logo=openai&logoColor=white" alt="GenAI"/>
+        <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="Cloud"/>
       </p>
       <p align="center">
-        <a href="https://github.com/Ra77Data/hub_cesar-gonzalez-tech-portfolio">
-          <img src="https://img.shields.io/badge/👉_Explore_Repository-2ea44f?style=for-the-badge" alt="AI/ML Repo"/>
+        <a href="https://github.com/Ra77Data/hub_cesar-gonzalez-tech-portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/👉_Explore_Repository-2ea44f?style=for-the-badge" alt="AI ML Cloud Portfolio"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
 
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ra77Data&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra77Data&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<details>
+  <summary><h2>🇪🇸 Versión en Español — Haz clic aquí para desplegar</h2></summary>
+
+  <h1 align="center">Hola 👋, soy César Martín González</h1>
+  <h3 align="center">Analista de Datos | Científico de Datos | Python | ML | IA | Cloud Computing</h3>
+
+  <p align="center">
+    <a href="mailto:cesarmg77.data@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/cesar-m-gonzalez" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Ra77Data" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <em>
+      Analista de Datos y Científico de Datos con formación en negocios y finanzas como Contador Público Nacional (2014) y Diplomado en Ciencias de Datos (2023). 
+      Apasionado por transformar datos complejos en información clara y construir soluciones escalables de IA/ML en la nube.
+    </em>
+  </p>
+
+  ---
+
+  ## 🚀 Mis Portfolios Principales
+
+  <table border="0" cellspacing="0" cellpadding="20">
+    <tr>
+      <td width="50%" valign="top">
+        <h2 align="center">📊 Portfolio de Ciencia de Datos</h2>
+        <p align="center">
+          Análisis exploratorio de datos, modelado estadístico, visualización de datos y casos de negocio usando Python, SQL y Jupyter Notebooks.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Ra77Data/data-science-foundations" target="_blank">
+            <img src="https://img.shields.io/badge/👉_Explorar_Repositorio-2ea44f?style=for-the-badge" alt="Portfolio de Ciencia de Datos"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h2 align="center">🤖 Portfolio AI / ML & Cloud</h2>
+        <p align="center">
+          Machine Learning, IA Generativa, desarrollo de APIs, automatización y proyectos de infraestructura en la nube.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+          <img src="https://img.shields.io/badge/GenAI-000000?style=flat&logo=openai&logoColor=white" alt="GenAI"/>
+          <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="Cloud"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Ra77Data/hub_cesar-gonzalez-tech-portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/👉_Explorar_Repositorio-2ea44f?style=for-the-badge" alt="Portfolio AI ML Cloud"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  ## 🛠️ Stack Tecnológico
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" alt="IA"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Computing"/>
+    <img src="https://img.shields.io/badge/Análisis_de_Datos-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Análisis de Datos"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
+
+
+  
 ---
 
 ## 🛠️ Tech Stack
