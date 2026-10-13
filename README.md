@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Data Scientist | Python | ML | AI | Cloud Computing</h3>
 
 <p align="center">
-  <a href="mailto:TU_CORREO@gmail.com">
+  <a href="mailto:cesarmg77.data@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/cesar-m-gonzalez" target="_blank">
@@ -10,6 +10,9 @@
   </a>
   <a href="https://github.com/Ra77Data" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://huggingface.co/Ramg77" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Ramg77-FFD21E?style=for-the-badge" alt="Hugging Face"/>
   </a>
 </p>
 
@@ -150,7 +153,7 @@
   <h3 align="center">Analista de Datos | Científico de Datos | Python | ML | IA | Cloud Computing</h3>
 
   <p align="center">
-    <a href="mailto:TU_CORREO@gmail.com">
+    <a href="mailto:cesarmg77.data@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/cesar-m-gonzalez" target="_blank">
@@ -158,6 +161,9 @@
     </a>
     <a href="https://github.com/Ra77Data" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://huggingface.co/Ramg77" target="_blank">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Ramg77-FFD21E?style=for-the-badge" alt="Hugging Face"/>
     </a>
   </p>
 
